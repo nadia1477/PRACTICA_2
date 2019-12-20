@@ -28,6 +28,6 @@ Nadia Nathaly Sánchez Pozo
 
 **pdf**: contiene un documento en formato pdf con las respuestas de la practica.
 
-**csv originales**: fichero csv con los datos de train y test.
+**Datos**: fichero csv con los datos de train y test.
 
-**csc clean**: fichero csv con los datos luego de la limpieza. 
+**csv clean**: fichero csv con los datos luego de la limpieza. 
