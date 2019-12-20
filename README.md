@@ -1,9 +1,11 @@
-# PRACTICA_2-
+# PRÁCTICA_2
+
 * # Tipología y ciclo de vida de los datos 
 ***
 23/12/2019
 
 Jone Aliri Lazcano
+
 Nadia Nathaly Sánchez Pozo
 
 **Descripción**
@@ -18,6 +20,7 @@ La actividad ha sido realizada por:
 Jone Aliri Lazcano,
 
 Nadia Nathaly Sánchez Pozo
+
 
 **Ficheros**
 
