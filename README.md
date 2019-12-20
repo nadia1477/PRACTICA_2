@@ -1,5 +1,5 @@
 # PRACTICA_2-
-* # **Tipología y ciclo de vida de los datos **
+* # Tipología y ciclo de vida de los datos 
 ***
 23/12/2019
 
