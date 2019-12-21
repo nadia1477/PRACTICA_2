@@ -10,7 +10,7 @@ Nadia Nathaly Sánchez Pozo
 
 **Descripción**
 
-Practica 2 de la asignatura Tipología y ciclo de vida de los datos del Máster en Ciencia de Datos de la Universitat Oberta de Catalunya.
+Práctica 2 de la asignatura Tipología y ciclo de vida de los datos del Máster en Ciencia de Datos de la Universitat Oberta de Catalunya.
 En esta práctica se elabora un caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de las mismas. 
 
 **Miembros del equipo**
