@@ -30,4 +30,4 @@ Nadia Nathaly Sánchez Pozo
 
 **Datos**: contiene ficheros csv con los datos de train y test.
 
-**csv clean**: fichero csv con los datos luego de la limpieza. 
+**titanic_clean.csv**: fichero csv con los datos luego de la limpieza. 
