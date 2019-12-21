@@ -26,7 +26,7 @@ Nadia Nathaly Sánchez Pozo
 
 **codigo**: contiene el código fuente en lenguaje R con el que se ha realizado la limpieza, análisis y representación de los datos.
 
-**pdf**: contiene un documento en formato pdf con las respuestas de la practica.
+**Practica2JAL-NNSP.pdf**:  documento en formato pdf con las respuestas de la practica.
 
 **Datos**: contiene ficheros csv con los datos de train y test.
 
