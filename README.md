@@ -2,7 +2,7 @@
 
 * # Tipología y ciclo de vida de los datos 
 ***
-23/12/2019
+07/01/2020
 
 Jone Aliri Lazcano
 
